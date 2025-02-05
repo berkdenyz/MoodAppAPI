@@ -1,0 +1,14 @@
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\bin\Debug\net8.0\MoodApp.DAL.deps.json
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\bin\Debug\net8.0\MoodApp.DAL.runtimeconfig.json
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\bin\Debug\net8.0\MoodApp.DAL.dll
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\bin\Debug\net8.0\MoodApp.DAL.pdb
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.csproj.AssemblyReference.cache
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.AssemblyInfoInputs.cache
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.AssemblyInfo.cs
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.dll
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\refint\MoodApp.DAL.dll
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.pdb
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\MoodApp.DAL.genruntimeconfig.cache
+C:\Users\Dnzbe\OneDrive\Masaüstü\ReactNative\MoodApp.API\MoodApp.DAL\obj\Debug\net8.0\ref\MoodApp.DAL.dll

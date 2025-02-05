@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5asY2rYKZVpXsqrA98DYbUlM2c1Fs1X7+QAxcd7kmQA=",
+  "Source": "MoodApp.API",
+  "BasePath": "_content/MoodApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

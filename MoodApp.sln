@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodApp.API", "MoodApp.API\MoodApp.API.csproj", "{7AE375C5-8C25-4DD9-B4F8-DE17F60DE4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodApp.DAL", "MoodApp.DAL\MoodApp.DAL.csproj", "{4B6DF431-412E-40F1-BF57-B8D522C6DCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE375C5-8C25-4DD9-B4F8-DE17F60DE4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE375C5-8C25-4DD9-B4F8-DE17F60DE4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE375C5-8C25-4DD9-B4F8-DE17F60DE4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE375C5-8C25-4DD9-B4F8-DE17F60DE4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6DF431-412E-40F1-BF57-B8D522C6DCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6DF431-412E-40F1-BF57-B8D522C6DCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6DF431-412E-40F1-BF57-B8D522C6DCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6DF431-412E-40F1-BF57-B8D522C6DCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
